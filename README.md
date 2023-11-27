@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VAISH-BAGAVE
+- 👀 I’m interested in Data Science and AI
+- 🌱 I’m currently learning PG in Data science & AI
+- 📫 How to reach me vaishnavi.vb07@gmail.com
